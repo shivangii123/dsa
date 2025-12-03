@@ -1,0 +1,2 @@
+float* xptr=f();
+    
